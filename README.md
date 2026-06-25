@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
