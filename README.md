@@ -39,4 +39,5 @@
 | [0607-sales-person](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1084-sales-analysis-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
