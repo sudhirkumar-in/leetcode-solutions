@@ -35,4 +35,5 @@
 | [0182-duplicate-emails](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
