@@ -42,6 +42,7 @@
 | [1084-sales-analysis-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1179-reformat-department-table) |
 | [1407-top-travellers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1407-top-travellers) |
+| [1587-bank-account-summary-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1587-bank-account-summary-ii) |
 | [1890-the-latest-login-in-2020](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1890-the-latest-login-in-2020) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3465-find-products-with-valid-serial-numbers) |
 <!---LeetCode Topics End-->
