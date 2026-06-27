@@ -5,7 +5,8 @@ with student_improvement as (
         subject,
         count(subject)over(partition by student_id,subject) as times,
         FIRST_VALUE(score)over(partition by student_id,subject order by exam_date ) as first_score,
-        LAST_VALUE(score)over(partition by student_id,subject order by exam_date ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING) as latest_score
+        FIRST_VALUE(score)over(partition by student_id,subject order by exam_date desc ) as latest_score
+        -- LAST_VALUE(score)over(partition by student_id,subject order by exam_date ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING) as latest_score
     from Scores
 )
     select distinct
