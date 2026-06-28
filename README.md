@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
 |  |
 | ------- |
@@ -58,4 +59,13 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Hash Table
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Counting
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
