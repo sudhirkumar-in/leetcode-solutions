@@ -54,4 +54,8 @@
 | [3220-odd-and-even-transactions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3421-find-students-who-improved) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3465-find-products-with-valid-serial-numbers) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
