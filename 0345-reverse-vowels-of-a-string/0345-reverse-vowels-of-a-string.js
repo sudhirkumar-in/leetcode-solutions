@@ -24,6 +24,8 @@ var reverseVowels = function (s) {
     }
     return arr.join('');
 };
+const vowels = new Set('aeiouAEIOU');
+
 function isVowel(ch) {
-    return ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'].includes(ch)
+    return vowels.has(ch)
 }
