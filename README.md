@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0263-ugly-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
