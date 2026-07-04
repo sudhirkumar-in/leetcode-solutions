@@ -104,4 +104,12 @@
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3827-count-monobit-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
