@@ -1,16 +1,11 @@
 function maximumDifference(nums: number[]): number {
-    let minSoFar = null;
+    let minSoFar = nums[0];
     let bestDiff = -1;
-    for (const num of nums) {
-        if (num < minSoFar) {
-            minSoFar = num;
-        }
-        if (minSoFar == null) {
-            minSoFar = num;
-            continue;
-        } else {
-            bestDiff = Math.max(bestDiff, num - minSoFar);
-        }
+    for (let i = 1; i < nums.length; i++) {
+        const num = nums[i]
+        bestDiff = Math.max(bestDiff, num - minSoFar);
+        minSoFar = Math.min(minSoFar, num);
+
     }
     return bestDiff || -1;
 };
