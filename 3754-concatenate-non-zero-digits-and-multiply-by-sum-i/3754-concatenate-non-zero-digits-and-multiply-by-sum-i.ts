@@ -13,5 +13,5 @@ function sumAndMultiply(n: number): number {
         }
     }
 
-    return sum * parseInt(xStr);
+    return sum * Number(xStr);
 };
