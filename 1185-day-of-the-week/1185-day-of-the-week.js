@@ -5,5 +5,7 @@
  * @return {string}
  */
 var dayOfTheWeek = function (day, month, year) {
-    return new Date(year, month - 1, day).toLocaleDateString('en-US', { weekday: 'long' });
+    let date = new Date(year, month - 1, day);
+    const weeks = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+    return weeks[date.getDay()]
 };
