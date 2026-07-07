@@ -90,6 +90,7 @@
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
 | [1185-day-of-the-week](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1185-day-of-the-week) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
