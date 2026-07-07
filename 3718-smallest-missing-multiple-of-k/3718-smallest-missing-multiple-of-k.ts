@@ -1,15 +1,10 @@
 function missingMultiple(nums: number[], k: number): number {
-    const set = new Set()
-    for (const num of nums) {
-        if (num % k == 0) {
-            const ind = num / k
-            set.add(ind);
-        }
-    }
+    const set = new Set(nums)
 
-    let i = 1;
+
+    let i = k;
     while (set.has(i)) {
-        i += 1;
+        i += k;
     }
-    return k * i;
+    return i;
 };
