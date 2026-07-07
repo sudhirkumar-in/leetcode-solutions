@@ -17,6 +17,7 @@
 | [0014-longest-common-prefix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -80,6 +81,7 @@
 | [0263-ugly-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2485-find-the-pivot-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
