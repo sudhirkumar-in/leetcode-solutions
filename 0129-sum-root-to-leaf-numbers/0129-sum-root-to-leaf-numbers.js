@@ -12,20 +12,20 @@
  */
 var sumNumbers = function (root) {
     let sum = 0;
-    const dfs = (r, numStr) => {
-        if (!r) {
-            return;
-        }
+    const dfs = (node, current) => {
+        if (!node) return;
+
+        current = current * 10 + node.val;
         // leaf node
-        if (r.left == null && r.right == null) {
-            sum += Number(numStr + r.val);
+        if (node.left == null && node.right == null) {
+            sum += current;
             return;
         }
 
         // traverse
-        dfs(r.left, numStr + r.val);
-        dfs(r.right, numStr + r.val);
+        dfs(node.left, current);
+        dfs(node.right, current);
     }
-    dfs(root, '');
+    dfs(root, 0);
     return sum;
 };
