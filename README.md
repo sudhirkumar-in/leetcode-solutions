@@ -174,6 +174,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3827-count-monobit-integers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3827-count-monobit-integers) |
 ## Number Theory
 |  |
