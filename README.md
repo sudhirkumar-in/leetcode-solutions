@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -56,10 +57,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Database
 |  |
@@ -210,4 +213,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
