@@ -1,31 +1,32 @@
-/**
- * @param {character[]} chars
- * @return {number}
- */
 var compress = function (chars) {
-    let charsBreak = [...chars, " "];
-    let compression = ''
-    let count = 1;
-    for (let i = 1; i < charsBreak.length; i++) {
+    chars.push('')
+    let n = chars.length
 
-        let current = charsBreak[i];
-        let previous = charsBreak[i - 1];
-        if (previous === current) {
-            count += 1;
-        } else {
-            if (count == 1) {
-                compression += previous
-            } else {
-                compression += previous + count;
+    let ch = ''
+    let ct = 0
+    let res = []
+    for (let i = 0; i < n; i++) {
+        if (chars[i] !== chars[i - 1]) {
+            if (ct) {
+                res.push(ch)
+                if (ct > 1) {
+                    for (let e of ('' + ct)) {
+                        res.push(e)
+                    }
+                }
             }
 
-            count = 1;
+            ch = chars[i]
+            ct = 1
+        } else {
+            ct++
         }
     }
-    let i = 0;
-    for (const ch of compression) {
-        chars[i] = ch;
-        i++;
+
+    let i = 0
+    for (let e of res) {
+        chars[i] = e
+        i++
     }
-    return compression.length;
+    return res.length
 };
