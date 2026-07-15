@@ -21,6 +21,7 @@
 | [0014-longest-common-prefix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0704-binary-search) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
