@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -183,6 +184,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0136-single-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3827-count-monobit-integers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3827-count-monobit-integers) |
