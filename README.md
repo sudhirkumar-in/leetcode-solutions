@@ -117,6 +117,7 @@
 | [0067-add-binary](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
 | [1185-day-of-the-week](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1185-day-of-the-week) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
 ## Union-Find
 |  |
 | ------- |
@@ -265,4 +267,8 @@
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
