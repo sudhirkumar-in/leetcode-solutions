@@ -50,6 +50,7 @@
 | [3843-first-element-with-unique-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [3697-compute-decimal-representation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
