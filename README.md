@@ -120,6 +120,7 @@
 | [0263-ugly-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1185-day-of-the-week](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1185-day-of-the-week) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0136-single-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3827-count-monobit-integers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3827-count-monobit-integers) |
