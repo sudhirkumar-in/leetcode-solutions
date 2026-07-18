@@ -142,6 +142,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3895-count-digit-appearances) |
+| [3908-valid-digit-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3908-valid-digit-number) |
 ## Hash Table
 |  |
 | ------- |
