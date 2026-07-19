@@ -66,6 +66,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Tree
 |  |
 | ------- |
@@ -213,11 +214,13 @@
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3827-count-monobit-integers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3827-count-monobit-integers) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3827-count-monobit-integers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3827-count-monobit-integers) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Number Theory
 |  |
 | ------- |
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sliding Window
 |  |
 | ------- |
