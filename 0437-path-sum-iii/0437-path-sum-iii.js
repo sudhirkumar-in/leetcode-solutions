@@ -13,18 +13,18 @@
  */
 var pathSum = function (root, targetSum) {
     let count = 0
-    const pathSum = (r, sum) => {
+    const path = (r, sum) => {
         if (!r) return;
         sum += r.val;
         if (sum == targetSum) {
             count++;
         }
-        pathSum(r.left, sum);
-        pathSum(r.right, sum)
+        path(r.left, sum);
+        path(r.right, sum)
     }
     const dfs = (r) => {
         if (!r) return;
-        pathSum(r, 0);
+        path(r, 0);
         dfs(r.left);
         dfs(r.right)
     }
