@@ -71,6 +71,7 @@
 | [1446-consecutive-characters](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -218,6 +219,7 @@
 | [0217-contains-duplicate](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3842-toggle-light-bulbs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
