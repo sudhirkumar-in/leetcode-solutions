@@ -3,9 +3,8 @@
  * @return {string[][]}
  */
 var groupAnagrams = function (strs) {
-    let strsWithKey = strs.map(v => ({ v, k: v.split('').sort().join('') }));
-    const group = Object.groupBy(strsWithKey, ({ k }) => k);
-    let result = Object.values(group).map(g=>g.map(val=>val.v));
-    return result
+    return Object.values(
+        Object.groupBy(strs, s => s.split('').sort().join(''))
+    );
 
 };
