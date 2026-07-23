@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0171-excel-sheet-column-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -218,6 +221,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
