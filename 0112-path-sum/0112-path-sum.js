@@ -20,6 +20,7 @@ var hasPathSum = function (root, targetSum) {
         if (!node.left && !node.right) {
             if (sum === targetSum) {
                 result = true;
+                return
             }
         }
         dfs(node.left, sum);
