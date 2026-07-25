@@ -14,12 +14,10 @@ var isValidBST = function (root) {
 
     const valid = (node, low, high) => {
         if (!node) return true
-        if (node.val == low || node.val == high) {
+        if (node.val <= low || node.val >= high) {
             return false
         }
-        if (!(low < node.val && node.val < high)) {
-            return false
-        }
+    
         return valid(node.left, low, node.val) && valid(node.right, node.val, high);
     }
     return valid(root, -Infinity, +Infinity)
