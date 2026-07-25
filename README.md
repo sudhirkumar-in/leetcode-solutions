@@ -11,6 +11,7 @@
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Trie
@@ -90,6 +91,7 @@
 | [0112-path-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -100,6 +102,7 @@
 | [0112-path-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Database
