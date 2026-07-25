@@ -14,6 +14,9 @@ var isValidBST = function (root) {
 
     const valid = (node, low, high) => {
         if (!node) return true
+        if (node.val == low || node.val == high) {
+            return false
+        }
         if (!(low < node.val && node.val < high)) {
             return false
         }
