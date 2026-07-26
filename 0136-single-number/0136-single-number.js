@@ -3,9 +3,9 @@
  * @return {number}
  */
 var singleNumber = function (nums) {
-    let unique = nums[0]
-    for (let i = 1; i < nums.length; i++) {
-        unique ^= nums[i]
+    let res = 0;
+    for (const num of nums) {
+        res ^= num
     }
-    return unique;
+    return res
 };
