@@ -3,7 +3,7 @@
  * @return {number}
  */
 var longestConsecutive = function (nums) {
-    nums = [...new Set(nums)]
+    // nums = [...new Set(nums)]
     nums.sort((a, b) => a - b);
     nums.push(Infinity); // sentinal
     let best = 0;
