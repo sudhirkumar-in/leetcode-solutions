@@ -11,7 +11,7 @@ var longestConsecutive = function (nums) {
     for (let i = 0; i < nums.length - 1; i++) {
         const curr = nums[i];
         const next = nums[i + 1];
-
+        if (curr == next) continue;
         if (curr + 1 === next) {
             count += 1;
             continue;
