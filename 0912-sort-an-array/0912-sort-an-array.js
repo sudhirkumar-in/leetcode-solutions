@@ -26,7 +26,8 @@ function merge(left, right) {
             result.push(right[j++]);
         }
     }
+    result.push(...left.slice(i));
+    result.push(...right.slice(j));
+    return result;
 
-    // Add any remaining elements from the left or right array
-    return [...result, ...left.slice(i), ...right.slice(j)];
 }
