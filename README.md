@@ -91,6 +91,7 @@
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -213,6 +214,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -327,6 +329,7 @@
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Breadth-First Search
 |  |
 | ------- |
