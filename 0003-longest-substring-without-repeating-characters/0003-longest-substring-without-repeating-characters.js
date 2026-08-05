@@ -20,7 +20,7 @@ var lengthOfLongestSubstring = function (s) {
         // add the curr element to window
         windowSet.add(curr);
         // get the best 
-        best = Math.max(best, right - left + 1)
+        best = Math.max(best, windowSet.size)
 
     }
 
