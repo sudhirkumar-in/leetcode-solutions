@@ -38,6 +38,7 @@
 | [0228-summary-ranges](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0704-binary-search) |
@@ -210,6 +211,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -261,6 +263,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2485-find-the-pivot-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
