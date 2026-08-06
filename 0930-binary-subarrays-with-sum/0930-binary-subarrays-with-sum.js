@@ -11,11 +11,7 @@ var numSubarraysWithSum = function (nums, goal) {
     for (const num of nums) {
         sum += num;
         const need = sum - goal;
-
-        if (map.has(need)) {
-            count += map.get(need) ?? 0
-        }
-
+        count += map.get(need) ?? 0
         map.set(sum, (map.get(sum) ?? 0) + 1)
 
     }
