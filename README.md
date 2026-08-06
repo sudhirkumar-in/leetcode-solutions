@@ -56,6 +56,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [1991-find-the-middle-index-in-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -274,6 +275,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1991-find-the-middle-index-in-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Sorting
