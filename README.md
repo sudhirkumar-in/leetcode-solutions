@@ -68,6 +68,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2540-minimum-common-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
