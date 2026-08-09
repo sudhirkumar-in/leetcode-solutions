@@ -3,27 +3,27 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function (s) {
+    const set = new Set();
+
     let left = 0;
-    let right = 0;
     let best = 0;
-    const windowSet = new Set();
-    for (; right < s.length; right++) {
-        // get the curr and remove it and make window  valid
-        const curr = s[right];
-        while (windowSet.has(curr)) {
-            let el = s[left];
-            // remove it 
-            windowSet.delete(el);
-            // increaset the left 
-            left += 1;
+
+    for (let right = 0; right < s.length; right++) {
+
+        // 1. Shrink while incoming character already exists
+        while (set.has(s[right])) {
+            const leftCh = s[left];
+            set.delete(leftCh)
+            left++
         }
-        // add the curr element to window
-        windowSet.add(curr);
-        // get the best 
-        best = Math.max(best, windowSet.size)
+
+        // 2. Add incoming character
+        set.add(s[right]);
+
+        // 3. Update best
+        best = Math.max(best, right - left + 1)
 
     }
-
 
     return best;
 };
