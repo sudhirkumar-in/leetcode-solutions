@@ -13,21 +13,17 @@ var findAnagrams = function (s, p) {
     let res = []
     const window = new Map();
     let left = 0;
-    let matched = 0;
+    
     for (let right = 0; right < s.length; right++) {
 
         // incoming
         const ch = s[right];
         window.set(ch, (window.get(ch) ?? 0) + 1)
-        if (need.has(ch)) {
-            matched++;
-        }
+      
         // make it valid
         while (right - left + 1 > k) {
             const leftCh = s[left];
-            if (need.has(leftCh)) {
-                matched--;
-            }
+
             const leftChCount = window.get(leftCh) - 1;
             if (leftChCount == 0) {
                 window.delete(leftCh);
