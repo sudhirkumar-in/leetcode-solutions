@@ -60,6 +60,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1572-matrix-diagonal-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -426,6 +427,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [1572-matrix-diagonal-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
