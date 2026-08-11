@@ -46,6 +46,7 @@
 | [0704-binary-search](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -283,6 +284,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -427,6 +429,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
