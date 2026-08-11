@@ -114,6 +114,7 @@
 | [0443-string-compression](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1446-consecutive-characters](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -440,6 +441,7 @@
 | [0071-simplify-path](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Brainteaser
 |  |
