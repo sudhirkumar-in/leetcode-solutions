@@ -76,6 +76,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2540-minimum-common-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -213,6 +214,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2485-find-the-pivot-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -356,6 +358,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -425,6 +428,7 @@
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 ## Stack
 |  |
 | ------- |
