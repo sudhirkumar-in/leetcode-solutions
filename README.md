@@ -68,6 +68,7 @@
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -294,6 +295,7 @@
 | [0067-add-binary](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
