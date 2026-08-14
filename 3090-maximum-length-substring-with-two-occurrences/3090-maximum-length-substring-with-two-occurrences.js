@@ -3,25 +3,22 @@
  * @return {number}
  */
 var maximumLengthSubstring = function (s) {
-    let n = s.length
-    let freq = {}
+    let left = 0;
+    let best = 0;
+    const freq = new Map()
+    for (let right = 0; right < s.length; right++) {
+        // incoming
+        const ch = s[right];
+        freq.set(ch, (freq.get(ch) ?? 0) + 1)
+        while (freq.get(ch) > 2) {
+            const leftCh = s[left]
+            const count = freq.get(leftCh) - 1
 
-    let i = 0
-    let maxLen = 0
-    for (let j = 0; j < n; j++) {
-        let e = s[j]
-        freq[e] = (freq[e] ?? 0) + 1
-
-        while (i < n && freq[e] > 2) {
-            let el = s[i++]
-            freq[el] = (freq[el] ?? 0) - 1
+            freq.set(leftCh, count);
+            left++
         }
 
-        if (i <= j) {
-            let len = j - i + 1
-            maxLen = Math.max(maxLen, len)
-        }
+        best = Math.max(best, right - left + 1);
     }
-
-    return maxLen
+    return best;
 };
