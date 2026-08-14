@@ -1,24 +1,21 @@
+/**
+ * @param {number} n
+ * @return {number}
+ */
 var pivotInteger = function (n) {
-    let prefixSum = []
-    let s = 0
-    for (let x = 1; x <= n; x++) {
-        s += x
-        prefixSum.push(s)
-    }
-
-    let suffixSum = []
-    s = 0
-    for (let x = n; x >= 1; x--) {
-        s += x
-        suffixSum.unshift(s)
-    }
-
-    for (let x = 1; x <= n; x++) {
-        let i = x - 1
-        if (prefixSum[i] === suffixSum[i]) {
-            return x
+    const sum = (n * (n + 1)) / 2
+    let left = 0;
+    let right = 0;
+    // left + right = sum
+    // right = sum - left
+    
+    for (let i = 0; i <= n; i++) {
+        left += i;
+        right = sum - left + i;
+        
+        if (left == right) {
+            return i
         }
     }
-
     return -1
 };
