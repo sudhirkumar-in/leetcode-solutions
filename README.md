@@ -42,6 +42,7 @@
 | [0228-summary-ranges](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
