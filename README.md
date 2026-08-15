@@ -212,6 +212,7 @@
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1185-day-of-the-week](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1185-day-of-the-week) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -262,6 +263,7 @@
 | [0904-fruit-into-baskets](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -523,4 +525,8 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
