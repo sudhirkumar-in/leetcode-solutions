@@ -41,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -447,6 +448,7 @@
 | [0112-path-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0322-coin-change) |
 ## Union-Find
 |  |
 | ------- |
@@ -483,6 +485,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0322-coin-change) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 ## Binary Search Tree
@@ -542,4 +545,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
