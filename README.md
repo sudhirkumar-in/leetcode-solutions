@@ -137,6 +137,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Tree
 |  |
@@ -245,6 +246,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -319,6 +321,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3842-toggle-light-bulbs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -394,6 +397,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -502,6 +506,7 @@
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
