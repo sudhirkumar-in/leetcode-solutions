@@ -258,6 +258,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
