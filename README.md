@@ -212,6 +212,7 @@
 | [3521-find-product-recommendation-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3521-find-product-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3570-find-books-with-no-available-copies) |
+| [3580-find-consistently-improving-employees](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3580-find-consistently-improving-employees) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 ## Math
 |  |
