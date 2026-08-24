@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0047-permutations-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -367,6 +368,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -436,6 +438,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
