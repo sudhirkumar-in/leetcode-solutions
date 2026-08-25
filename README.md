@@ -33,6 +33,7 @@
 | [0047-permutations-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -344,6 +345,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -371,6 +373,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
