@@ -33,6 +33,7 @@
 | [0047-permutations-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0136-single-number) |
@@ -398,6 +399,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -447,6 +449,7 @@
 | [0022-generate-parentheses](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
