@@ -3,24 +3,39 @@
  * @return {number[][]}
  */
 var permute = function (nums) {
-    let n = nums.length
-    let res = []
-
+    const res = [];
+    const used = new Array(nums.length).fill(false);
+    const len = nums.length;
     function bt(path) {
-        if (path.size === n) {
-            res.push([...path].map(i => nums[i]))
-            return
+
+        // 🎉 If path contains every number
+        if (len === path.length) {
+            res.push([...path]);
+            return;
         }
 
-        for (let i = 0; i < n; i++) {
-            if (path.has(i)) continue
-            path.add(i)
-            bt(path)
-            path.delete(i)
+        // Explore every number
+        for (let i = 0; i < nums.length; i++) {
+
+            // 🚫 If already used, skip
+            if (used[i] == true) {
+                continue;
+            }
+
+            // Choose
+            path.push(nums[i]);
+            used[i] = true;
+
+            // Explore
+            bt(path);
+
+            // Undo
+            used[i] = false;
+            path.pop();
         }
     }
 
-    bt(new Set())
+    bt([]);
 
-    return res
+    return res;
 };
