@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -36,6 +37,7 @@
 | [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0136-single-number) |
@@ -131,6 +133,7 @@
 | [0067-add-binary](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -458,6 +461,7 @@
 | [0047-permutations-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -501,6 +505,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
