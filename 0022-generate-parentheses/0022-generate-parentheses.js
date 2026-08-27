@@ -3,22 +3,21 @@
  * @return {string[]}
  */
 var generateParenthesis = function (n) {
-    const pair = [];
-    let len = n * 2;
-    const dfs = (str, leftParen, rightParen) => {
-        if (str.length === len) {
-            if (leftParen === n && rightParen === n) {
-                pair.push(str);
-            }
-            return; // base 
+    const res = []
+    function bt(path, open, close) {
+        if (path.length === n * 2) {
+            res.push(path);
+            return
         }
-        if (rightParen < n) {
-            dfs(str + '(', leftParen + 1, rightParen)
+        // explore
+        if (open < n) {
+            bt(path + '(', open + 1, close);
         }
-        if (rightParen < leftParen) {
-            dfs(str + ')', leftParen, rightParen + 1)
+        if (close < open) {
+            bt(path + ')', open, close + 1);
         }
+
     }
-    dfs('', 0, 0)
-    return pair;
+    bt('', 0, 0);
+    return res;
 };
