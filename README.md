@@ -135,6 +135,7 @@
 | [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -545,6 +546,7 @@
 | [0022-generate-parentheses](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
