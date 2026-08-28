@@ -234,6 +234,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -542,6 +543,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -561,6 +563,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0062-unique-paths) |
 | [1641-count-sorted-vowel-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
