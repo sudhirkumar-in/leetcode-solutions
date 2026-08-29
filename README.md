@@ -35,6 +35,7 @@
 | [0046-permutations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0079-word-search) |
@@ -516,6 +517,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -545,6 +547,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0198-house-robber) |
