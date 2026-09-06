@@ -23,7 +23,7 @@ var floodFill = function (image, sr, sc, color) {
     q.push([sr, sc]);
     while (q.length) {
         // process
-        const [i, j] = q.shift();
+        const [i, j] = q.pop();
 
         for (const [ni, nj] of dirs) {
             const newRow = i + ni;
