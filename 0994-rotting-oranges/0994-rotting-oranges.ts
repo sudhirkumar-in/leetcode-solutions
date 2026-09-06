@@ -1,67 +1,64 @@
 function orangesRotting(g: number[][]): number {
-    let m = g.length
-    let n = g[0].length
-    let q = []
-    let haveOnes = false
+    const m = g.length;
+    const n = g[0].length;
 
+    const q: [number, number][] = [];
+
+    // Put all initially rotten oranges into the queue
     for (let i = 0; i < m; i++) {
-
         for (let j = 0; j < n; j++) {
-
             if (g[i][j] === 2) {
-                q.push([i, j])
-            } else if (g[i][j] === 1) {
-                haveOnes = true
+                q.push([i, j]);
             }
         }
     }
 
-    if (haveOnes === false) {
-        return 0
-    }
-
-    let dirs = [
+    const dirs = [
         [-1, 0],
         [1, 0],
         [0, -1],
         [0, 1],
-    ]
+    ];
 
-    let levels = 0
+    let head = 0;
+    let minutes = 0;
 
-    while (q.length) {
-        levels++
-        let count = q.length
+    while (head < q.length) {
+        const count = q.length - head;
 
         for (let k = 0; k < count; k++) {
-            let [i, j] = q.shift()
+            const [i, j] = q[head++];
 
-            for (let [dx, dy] of dirs) {
-                let [ni, nj] = [i + dx, j + dy]
+            for (const [dx, dy] of dirs) {
+                const ni = i + dx;
+                const nj = j + dy;
 
                 if (
-                    ni >= 0 && ni < m &&//
-                    nj >= 0 && nj < n
+                    ni >= 0 &&
+                    ni < m &&
+                    nj >= 0 &&
+                    nj < n &&
+                    g[ni][nj] === 1
                 ) {
-
-                    if (g[ni][nj] === 1) {
-                        g[ni][nj] = 2;
-                        q.push([ni, nj]);
-                    }
+                    g[ni][nj] = 2;
+                    q.push([ni, nj]);
                 }
             }
         }
+
+        // If we processed at least one level, one minute passed
+        minutes++;
     }
 
+    // Check whether any fresh oranges remain
     for (let i = 0; i < m; i++) {
-
         for (let j = 0; j < n; j++) {
-
             if (g[i][j] === 1) {
-                return -1
+                return -1;
             }
         }
     }
 
-    return levels - 1
-};
+    return Math.max(0, minutes - 1);
+}
+
