@@ -24,8 +24,7 @@ var floodFill = function (image, sr, sc, color) {
     while (q.length) {
         // process
         const [i, j] = q.shift();
-        // visited
-        image[i][j] = color;
+
         for (const [ni, nj] of dirs) {
             const newRow = i + ni;
             const newCol = j + nj;
@@ -37,6 +36,7 @@ var floodFill = function (image, sr, sc, color) {
                 newCol < c &&
                 image[newRow][newCol] === originalColor
             ) {
+                image[newRow][newCol] = color;
                 q.push([newRow, newCol]);
             }
         }
