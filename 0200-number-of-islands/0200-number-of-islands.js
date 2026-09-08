@@ -3,36 +3,35 @@
  * @return {number}
  */
 var numIslands = function (grid) {
-    const col = grid[0].length;
+    let count = 0;
     const row = grid.length;
-    let island = 0;
-   
-    const dfs = (r, c) => {
-        if (grid[r][c] === "0") {
-            return;
-        }
-        // made visited;
-        grid[r][c] = "0";
-        if (c + 1 < col) {
-            dfs(r, c + 1);
-        }
-        if (r + 1 < row) {
-            dfs(r + 1, c);
-        }
-        if (r > 0) {
-            dfs(r - 1, c)
-        }
-        if (c > 0) {
-            dfs(r, c - 1);
-        }
-    }
-    for (let r = 0; r < row; r++) {
-        for (let c = 0; c < col; c++) {
-            if (grid[r][c] === "1") {
-                island += 1;
-                dfs(r, c);//
+    const col = grid[0].length;
+    const dirs = [
+        [0, 1],
+        [0, -1],
+        [1, 0],
+        [-1, 0]
+    ];
+    for (let m = 0; m < row; m++) {
+        for (let n = 0; n < col; n++) {
+            if (grid[m][n] === "1") {
+                count++;
+                dfs(m, n) // make 1 to zero
             }
         }
     }
-    return island;
+
+    function dfs(m, n) {
+        //edge
+        if (!(m >= 0 && m < row && n >= 0 && n < col)) return
+        if (grid[m][n] === "0") return;
+
+        grid[m][n] = "0";
+        // make neighbour to "0";
+        for (const [dx, dy] of dirs) {
+            dfs(m + dx, n + dy);
+        }
+
+    }
+    return count
 };
