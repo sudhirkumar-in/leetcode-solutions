@@ -1,31 +1,22 @@
 function validPath(n: number, edges: number[][], source: number, destination: number): boolean {
     function buildGraph(ed) {
-        const g = []
+        const g = Array.from({ length: n }, () => []);
         for (const [u, v] of ed) {
-            if (u in g) {
-                g[u].push(v)
-            } else {
-                g[u] = [v]
-            }
-            //
-
-            if (v in g) {
-                g[v].push(u)
-            } else {
-                g[v] = [u]
-            }
+            g[u].push(v)
+            g[v].push(u)
         }
         return g;
     }
-    if (edges.length === 0) return true; // case
+
     const graph = buildGraph(edges); // adj list
     // console.log(graph)
     let found = false;
-    const vis = new Array(graph.length).fill(false);
+    const vis = new Array(n).fill(false);
     function dfs(u) {
         vis[u] = true;
         if (u === destination) {
             found = true;
+            return;
         }
         for (const nbr of graph[u]) {
             if (!vis[nbr]) {
