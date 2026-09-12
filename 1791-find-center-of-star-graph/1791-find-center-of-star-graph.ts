@@ -8,16 +8,21 @@ function findCenter(edges: number[][]): number {
     // console.log(n);
     const g = Array.from({ length: n + 1 }, () => []);
     let maxLen = 0
+    const size = {}
     for (const [u, v] of edges) {
         g[u].push(v);
         g[v].push(u);
-        maxLen = Math.max(maxLen,g[u].length,g[v].length)
+        const uSize = g[u].length;
+        const vSize = g[v].length;
+        size[uSize] = u;
+        size[vSize] = v
+        maxLen = Math.max(maxLen, uSize, vSize)
     }
-   
-    for (let node = 0; node < n + 1; node++) {
-        if (g[node].length === maxLen) {
-            return node
-        }
-    }
-  
+return size[maxLen]
+    // for (let node = 0; node < n + 1; node++) {
+    //     if (g[node].length === maxLen) {
+    //         return node
+    //     }
+    // }
+
 };
