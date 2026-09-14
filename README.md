@@ -29,6 +29,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
@@ -201,6 +202,7 @@
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -218,6 +220,7 @@
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
 |  |
@@ -551,6 +554,7 @@
 | [0841-keys-and-rooms](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1765-map-of-highest-peak](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -561,6 +565,7 @@
 | [0547-number-of-provinces](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -711,6 +716,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
