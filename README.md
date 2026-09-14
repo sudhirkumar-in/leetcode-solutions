@@ -74,6 +74,7 @@
 | [0485-max-consecutive-ones](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -330,6 +331,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -362,6 +364,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -424,6 +427,7 @@
 | [0088-merge-sorted-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -487,6 +491,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1903-largest-odd-number-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2864-maximum-odd-binary-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
@@ -636,6 +641,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
