@@ -29,6 +29,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -175,6 +176,7 @@
 | [0520-detect-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0984-string-without-aaa-or-bbb) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1143-longest-common-subsequence](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1446-consecutive-characters](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1446-consecutive-characters) |
@@ -205,6 +207,7 @@
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -224,6 +227,7 @@
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -519,6 +523,7 @@
 | [0216-combination-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0797-all-paths-from-source-to-target](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
