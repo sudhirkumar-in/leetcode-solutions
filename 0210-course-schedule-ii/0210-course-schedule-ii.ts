@@ -1,36 +1,35 @@
 function findOrder(n: number, edges: number[][]): number[] {
-    let g = Array.from({ length: n }, () => []); // adj list
-    let vis = new Array(n).fill(0)
-    let inDegree = new Array(n).fill(0)
-    let order = []
+    let g = Array.from({ length: n }, () => [])
+    let inDeg = new Array(n).fill(0)
 
     for (let [v, u] of edges) {
+        inDeg[v]++
         g[u].push(v)
-        inDegree[v]++
     }
 
     let q = []
     for (let u = 0; u < n; u++) {
-        if (inDegree[u] === 0) {
+        if (inDeg[u] === 0) {
             q.push(u)
         }
     }
 
-    function bfs() {
-        while (q.length) {
-            let u = q.shift()
-            order.push(u)
+    let torder = []
+    while (q.length) {
+        let u = q.shift()
+        torder.push(u)
 
-            for (let v of g[u]) {
-                inDegree[v]--
-                if (inDegree[v] === 0) {
-                    q.push(v)
-                }
+        for (let v of g[u]) {
+            inDeg[v]--
+            if (inDeg[v] === 0) {
+                q.push(v)
             }
         }
     }
 
-    bfs()
-
-    return order.length === n ? order : []
+    if (torder.length === n) {
+        return torder
+    } else {
+        return []
+    }
 };
