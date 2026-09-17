@@ -34,6 +34,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -575,6 +576,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1765-map-of-highest-peak](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
@@ -586,6 +588,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -739,6 +742,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Coloring
 |  |
 | ------- |
