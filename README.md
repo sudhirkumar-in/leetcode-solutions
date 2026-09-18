@@ -31,6 +31,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1192-critical-connections-in-a-network](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -738,6 +739,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1192-critical-connections-in-a-network](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
@@ -785,4 +787,12 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
