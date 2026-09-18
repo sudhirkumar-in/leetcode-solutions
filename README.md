@@ -35,6 +35,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Trie
 |  |
@@ -577,6 +578,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1765-map-of-highest-peak](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -744,6 +746,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Coloring
 |  |
@@ -758,6 +761,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [2360-longest-cycle-in-a-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -795,4 +799,12 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
