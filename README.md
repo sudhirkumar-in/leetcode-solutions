@@ -20,6 +20,7 @@
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -207,6 +208,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -566,6 +568,7 @@
 | [0322-coin-change](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0743-network-delay-time) |
