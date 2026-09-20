@@ -12,20 +12,18 @@
  * @return {boolean}
  */
 var hasPathSum = function (root, targetSum) {
-    let result = false;
-    const dfs = (node, sum) => {
-        if (!node) return;
-        sum += node.val;
-        // leaf
-        if (!node.left && !node.right) {
-            if (sum === targetSum) {
-                result = true;
-                return
+    function dfs(node, remaining) {
+        // base case
+        if (!node) return false;
+        // leaf case
+        const currRemaining = remaining - node.val
+        if (node.left === null && node.right === null) {
+            if (currRemaining === 0) {
+                return true;
             }
         }
-        dfs(node.left, sum);
-        dfs(node.right, sum);
+        // recursive case
+        return dfs(node.left, currRemaining) || dfs(node.right, currRemaining)
     }
-    dfs(root, 0)
-    return result;
+    return dfs(root, targetSum);
 };
