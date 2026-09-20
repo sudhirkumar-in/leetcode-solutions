@@ -12,6 +12,16 @@
  */
 var maxDepth = function (root) {
     if (!root) return 0;
+
+    const left = maxDepth(root.left);
+    const right = maxDepth(root.right);
+
+    // What should you return here?
+    return 1 + Math.max(left, right);
+};
+
+var maxDepth22 = function (root) {
+    if (!root) return 0;
     let levelCount = 0;
     // bfs
     let q = [root]
