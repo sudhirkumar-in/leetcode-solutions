@@ -22,6 +22,7 @@
 | [0547-number-of-provinces](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -210,6 +211,7 @@
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -230,6 +232,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -810,4 +813,12 @@
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
