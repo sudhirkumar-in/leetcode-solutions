@@ -19,6 +19,7 @@
 | [0386-lexicographical-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
@@ -209,6 +210,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -231,6 +233,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
@@ -821,4 +824,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
