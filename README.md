@@ -20,6 +20,7 @@
 | [0226-invert-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0386-lexicographical-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -603,6 +604,7 @@
 | [0210-course-schedule-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -781,6 +783,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -808,6 +811,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
