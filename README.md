@@ -41,6 +41,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2049-count-nodes-with-the-highest-score) |
@@ -232,6 +233,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -382,6 +384,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -611,6 +614,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1765-map-of-highest-peak](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -855,6 +859,7 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 <!---LeetCode Topics End-->
