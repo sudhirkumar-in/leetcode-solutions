@@ -40,6 +40,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1192-critical-connections-in-a-network](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -234,6 +235,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -265,6 +267,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1361-validate-binary-tree-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
