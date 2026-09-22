@@ -26,7 +26,6 @@ var removeLeafNodes = function (root, target) {
         return node
 
     }
-    dfs(root);
-    if (!root.left && !root.right && root.val === target) return null
-    return root;
+
+    return dfs(root);
 };
