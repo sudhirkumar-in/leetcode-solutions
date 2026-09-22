@@ -11,19 +11,13 @@
  * @return {number}
  */
 var maxDepth = function (root) {
-    // bfs
-    if (!root) return 0;
-    let levelCount = 0;
-    const q = [root];
-    while (q.length) {
-        let level = q.length;
-        levelCount++;
-        while (level--) {
-            const node = q.shift();
-            for (const childNode of node.children) {
-                q.push(childNode);
-            }
+    function dfs(node) {
+        if (!node) return 0;
+        let max = 0;
+        for (const child of node.children) {
+            max = Math.max(max, dfs(child));
         }
+        return 1 + max;
     }
-    return levelCount;
+    return dfs(root);
 };
