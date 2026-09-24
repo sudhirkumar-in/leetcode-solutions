@@ -50,6 +50,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3249-count-the-number-of-good-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3249-count-the-number-of-good-nodes) |
@@ -150,6 +151,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2540-minimum-common-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -245,6 +247,7 @@
 | [2049-count-nodes-with-the-highest-score](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3249-count-the-number-of-good-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3249-count-the-number-of-good-nodes) |
 ## Binary Tree
@@ -633,6 +636,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -805,6 +809,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Coloring
