@@ -54,6 +54,7 @@
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3249-count-the-number-of-good-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3249-count-the-number-of-good-nodes) |
+| [3965-finish-time-of-tasks-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3965-finish-time-of-tasks-i) |
 ## Trie
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [3866-first-unique-even-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3895-count-digit-appearances) |
+| [3965-finish-time-of-tasks-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3965-finish-time-of-tasks-i) |
 ## String
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | [2467-most-profitable-path-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3249-count-the-number-of-good-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3249-count-the-number-of-good-nodes) |
+| [3965-finish-time-of-tasks-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -705,6 +708,7 @@
 | [1143-longest-common-subsequence](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
+| [3965-finish-time-of-tasks-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Search Tree
 |  |
 | ------- |
