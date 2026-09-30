@@ -209,6 +209,7 @@
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1446-consecutive-characters](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1903-largest-odd-number-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2325-decode-the-message](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2325-decode-the-message) |
@@ -473,6 +474,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2396-strictly-palindromic-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -565,6 +567,7 @@
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0984-string-without-aaa-or-bbb](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0984-string-without-aaa-or-bbb) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1903-largest-odd-number-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2864-maximum-odd-binary-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
