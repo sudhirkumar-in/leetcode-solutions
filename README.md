@@ -133,6 +133,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
@@ -498,6 +499,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
