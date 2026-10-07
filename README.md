@@ -164,6 +164,7 @@
 | [2540-minimum-common-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -471,6 +472,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3842-toggle-light-bulbs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
@@ -527,6 +529,7 @@
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2785-sort-vowels-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -765,6 +768,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
