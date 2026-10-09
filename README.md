@@ -229,6 +229,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3227-vowels-game-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -375,6 +376,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2864-maximum-odd-binary-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [3227-vowels-game-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -718,6 +720,7 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [3227-vowels-game-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -937,4 +940,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
