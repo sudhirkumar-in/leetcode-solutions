@@ -4,23 +4,15 @@
  * @return {number}
  */
 var numSubarrayProductLessThanK = function (nums, k) {
-    if (k <= 1) return 0;
-    let left = 0;
-    let product = 1;
-    let count = 0;
+    let prod = 1;
+    let res = 0
+    let left = 0
     for (let right = 0; right < nums.length; right++) {
-        // incoming
-        product *= nums[right]
-        // shrink while invalid
-        while (product >= k) {
-            // outgoing
-            product /= nums[left]
-
-            left++;
+        prod *= nums[right];
+        while (prod >= k) {
+            prod /= nums[left++]
         }
-
-        // count valid subarrays ending at right
-        count += right - left + 1
+        res += (right - left + 1);
     }
-    return  count;
+    return Math.max(res, 0);
 };
