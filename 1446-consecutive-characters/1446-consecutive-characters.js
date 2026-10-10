@@ -3,18 +3,20 @@
  * @return {number}
  */
 var maxPower = function (s) {
-    // let chars = s.split('');
-    let best = 0;
-    let count = 1;
-    for (let i = 0; i < s.length - 1; i++) {
-        if (s[i] == s[i + 1]) {
-            count += 1;
+    let left = 0;
+    let power = 0;
+    let count = 0;
+    for (let right = 0; right < s.length; right++) {
+        if (s[left] == s[right]) {
+            count++;
         } else {
-            best = Math.max(best, count);
-            count = 1;
-
+            power = Math.max(power, count);
+            left = right;
+            count = 1
+            // reset
         }
     }
-    best = Math.max(best, count)
-    return best;
+    // remaining 
+    power = Math.max(power, count);
+    return power
 };
