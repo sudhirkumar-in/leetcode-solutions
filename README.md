@@ -96,6 +96,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -503,6 +504,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -950,4 +952,8 @@
 | ------- |
 | [1927-sum-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1927-sum-game) |
 | [3227-vowels-game-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
