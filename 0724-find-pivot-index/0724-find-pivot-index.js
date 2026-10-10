@@ -3,16 +3,18 @@
  * @return {number}
  */
 var pivotIndex = function (nums) {
+    // formula is 
+    // left + x + right = totalSum;
     let left = 0;
-    let sum = nums.reduce((s, n) => s + n, 0);
-
-    for (const [i, num] of nums.entries()) {
-        //  left + x + right = sum 
-        const right = sum - num - left;
-        if (left == right) {
+    let right = 0
+    const totalSum = nums.reduce((num, sum) => num + sum, 0);
+    for (let i = 0; i < nums.length; i++) {
+        right = totalSum - (left + nums[i]);
+        if (left === right) {
             return i;
         }
-        left += num;
+        left += nums[i];
+
     }
     return -1;
 };
