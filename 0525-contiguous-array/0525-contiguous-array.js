@@ -5,10 +5,10 @@
 var findMaxLength = function (nums) {
     let best = 0;
     let map = new Map();
-    let sum = 0 ; 
-    nums = nums.map(v => v == 1 ? 1 : -1);
+    let sum = 0;
+
     for (let i = 0; i < nums.length; i++) {
-         sum += nums[i]
+        sum += nums[i] == 1 ? 1 : -1
         map.set(0, -1);
         if (map.has(sum)) {
             best = Math.max(best, i - map.get(sum))
