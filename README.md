@@ -71,6 +71,7 @@
 | [0039-combination-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -601,6 +602,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0984-string-without-aaa-or-bbb](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0984-string-without-aaa-or-bbb) |
@@ -748,6 +750,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0063-unique-paths-ii) |
