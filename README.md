@@ -359,6 +359,7 @@
 | [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0464-can-i-win](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -562,6 +563,7 @@
 | [0090-subsets-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0464-can-i-win](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0464-can-i-win) |
 | [0491-non-decreasing-subsequences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -766,6 +768,7 @@
 | [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0322-coin-change) |
+| [0464-can-i-win](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -862,6 +865,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Longest Common Subsequence
 |  |
@@ -971,6 +975,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0464-can-i-win) |
 | [1927-sum-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1927-sum-game) |
 | [3227-vowels-game-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Design
@@ -981,4 +986,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
