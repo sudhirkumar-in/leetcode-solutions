@@ -161,6 +161,7 @@
 | [2293-min-max-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -532,6 +533,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2485-find-the-pivot-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Sorting
@@ -554,6 +556,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2054-two-best-non-overlapping-events](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2785-sort-vowels-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
@@ -610,6 +613,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
@@ -623,6 +627,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1927-sum-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
