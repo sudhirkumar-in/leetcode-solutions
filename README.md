@@ -169,6 +169,7 @@
 | [2540-minimum-common-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -616,6 +617,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1927-sum-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
