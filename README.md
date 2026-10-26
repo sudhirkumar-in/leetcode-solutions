@@ -54,6 +54,7 @@
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3249-count-the-number-of-good-nodes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3249-count-the-number-of-good-nodes) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3965-finish-time-of-tasks-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3965-finish-time-of-tasks-i) |
 ## Trie
 |  |
@@ -181,6 +182,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3697-compute-decimal-representation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3697-compute-decimal-representation) |
@@ -720,6 +722,7 @@
 | [2467-most-profitable-path-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -733,6 +736,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2685-count-the-number-of-complete-components](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -751,6 +755,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
