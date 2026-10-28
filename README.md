@@ -130,6 +130,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-valid-boomerang](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -377,6 +378,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1185-day-of-the-week](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1185-day-of-the-week) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -1027,4 +1029,5 @@
 | [0223-rectangle-area](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1037-valid-boomerang) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
