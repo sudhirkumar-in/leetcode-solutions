@@ -363,6 +363,7 @@
 | [0070-climbing-stairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0223-rectangle-area](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
@@ -1021,5 +1022,6 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
