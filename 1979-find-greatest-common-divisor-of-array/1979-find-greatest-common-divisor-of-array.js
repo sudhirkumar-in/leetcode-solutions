@@ -3,19 +3,14 @@
  * @return {number}
  */
 var findGCD = function (nums) {
-    let min = Infinity
-    let max = 0
-    for (const num of nums) {
-        min = Math.min(min, num);
-        max = Math.max(max, num);
-    }
-
-    return gcd(min, max);
-
+    let a = Math.max(...nums);
+    let b = Math.min(...nums);
+    return gcd(a, b);
 };
-function gcd(x, y) {
-    if (y === 0) {
-        return x;
+function gcd(a, b) {
+    if (b == 0) {
+        return a;
+    } else {
+        return gcd(b, a % b)
     }
-    return gcd(y, x % y);
 }
