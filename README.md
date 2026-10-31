@@ -364,6 +364,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0067-add-binary) |
@@ -907,6 +908,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
