@@ -370,6 +370,7 @@
 | [0070-climbing-stairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0263-ugly-number) |
