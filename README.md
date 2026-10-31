@@ -92,6 +92,7 @@
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -369,6 +370,7 @@
 | [0070-climbing-stairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
@@ -604,6 +606,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -612,6 +615,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -1049,4 +1053,16 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
