@@ -10,7 +10,7 @@ var hasGroupsSizeX = function (deck) {
     }
     const freq = Object.values(m);
     const gcdofreq = freq.reduce((result, num) => gcd(result, num));
-    console.log(freq, gcdofreq)
+    // console.log(freq, gcdofreq)
     return gcdofreq > 1
 };
 function gcd(a, b) {
