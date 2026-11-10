@@ -191,6 +191,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3693-climbing-stairs-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3697-compute-decimal-representation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3697-compute-decimal-representation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -836,6 +837,7 @@
 | [1641-count-sorted-vowel-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [2054-two-best-non-overlapping-events](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3693-climbing-stairs-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3965-finish-time-of-tasks-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3965-finish-time-of-tasks-i) |
