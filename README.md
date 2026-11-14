@@ -208,6 +208,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3965-finish-time-of-tasks-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3965-finish-time-of-tasks-i) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## String
 |  |
 | ------- |
@@ -506,6 +507,7 @@
 | [3842-toggle-light-bulbs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3866-first-unique-even-element) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Counting
 |  |
 | ------- |
