@@ -222,6 +222,7 @@
 | [3895-count-digit-appearances](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3965-finish-time-of-tasks-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3965-finish-time-of-tasks-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -545,6 +546,7 @@
 | [3843-first-element-with-unique-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
@@ -565,6 +567,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3866-first-unique-even-element) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Simulation
 |  |
 | ------- |
@@ -586,6 +589,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3842-toggle-light-bulbs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -662,6 +666,7 @@
 | [3769-sort-integers-by-binary-reflection](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3842-toggle-light-bulbs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -935,6 +940,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1178,4 +1184,5 @@
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2363-merge-similar-items) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
