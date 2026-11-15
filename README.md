@@ -173,6 +173,7 @@
 | [2368-reachable-nodes-with-restrictions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -502,6 +503,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -575,6 +577,7 @@
 | [0567-permutation-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2396-strictly-palindromic-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -621,6 +624,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2785-sort-vowels-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
