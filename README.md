@@ -269,6 +269,7 @@
 | [1927-sum-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -514,6 +515,7 @@
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -559,6 +561,7 @@
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
