@@ -62,6 +62,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Array
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2848-points-that-intersect-with-cars](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -520,6 +522,7 @@
 | [2716-minimize-string-length](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2848-points-that-intersect-with-cars](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -664,6 +667,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3827-count-monobit-integers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3827-count-monobit-integers) |
@@ -769,6 +773,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Breadth-First Search
