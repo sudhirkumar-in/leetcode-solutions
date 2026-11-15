@@ -260,6 +260,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2716-minimize-string-length](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -502,6 +503,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2716-minimize-string-length](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
