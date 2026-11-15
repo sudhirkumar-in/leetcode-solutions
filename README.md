@@ -213,6 +213,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3842-toggle-light-bulbs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
@@ -544,6 +545,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3866-first-unique-even-element) |
