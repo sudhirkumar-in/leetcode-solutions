@@ -155,6 +155,7 @@
 | [1550-three-consecutive-odds](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1765-map-of-highest-peak](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
@@ -640,6 +641,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2054-two-best-non-overlapping-events](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
