@@ -170,6 +170,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2293-min-max-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2363-merge-similar-items](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -505,6 +506,7 @@
 | [2325-decode-the-message](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2363-merge-similar-items](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -627,6 +629,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2363-merge-similar-items](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -1148,4 +1151,8 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
