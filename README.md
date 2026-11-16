@@ -255,6 +255,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0984-string-without-aaa-or-bbb](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0984-string-without-aaa-or-bbb) |
@@ -495,6 +496,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -1120,6 +1122,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
 |  |
@@ -1142,6 +1145,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
