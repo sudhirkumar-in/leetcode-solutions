@@ -439,6 +439,7 @@
 | [1399-count-largest-group](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1641-count-sorted-vowel-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
