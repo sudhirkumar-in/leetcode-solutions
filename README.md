@@ -146,6 +146,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -584,6 +585,7 @@
 | [0067-add-binary](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -1203,4 +1205,12 @@
 | ------- |
 | [2363-merge-similar-items](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1409-queries-on-a-permutation-with-key) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
