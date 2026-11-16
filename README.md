@@ -179,6 +179,7 @@
 | [2368-reachable-nodes-with-restrictions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -692,6 +693,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3370-smallest-number-with-all-set-bits) |
