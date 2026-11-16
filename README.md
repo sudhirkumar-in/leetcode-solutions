@@ -265,6 +265,7 @@
 | [1513-number-of-substrings-with-only-1s](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1556-thousand-separator](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1556-thousand-separator) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -740,6 +741,7 @@
 | [0179-largest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0984-string-without-aaa-or-bbb](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0984-string-without-aaa-or-bbb) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
