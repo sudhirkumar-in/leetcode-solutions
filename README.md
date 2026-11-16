@@ -185,6 +185,7 @@
 | [2467-most-profitable-path-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2540-minimum-common-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
@@ -662,6 +663,7 @@
 | [2418-sort-the-people](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
@@ -866,6 +868,7 @@
 | [1765-map-of-highest-peak](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
