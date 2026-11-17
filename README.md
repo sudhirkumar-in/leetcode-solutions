@@ -415,6 +415,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
@@ -702,6 +703,7 @@
 | [0078-subsets](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0464-can-i-win](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0464-can-i-win) |
 | [0491-non-decreasing-subsequences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
@@ -1034,6 +1036,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
