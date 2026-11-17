@@ -703,6 +703,7 @@
 | [0078-subsets](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0464-can-i-win](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0464-can-i-win) |
@@ -982,6 +983,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
