@@ -178,6 +178,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2293-min-max-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2293-min-max-game) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2363-merge-similar-items) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -536,6 +537,7 @@
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2325-decode-the-message) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2363-merge-similar-items) |
@@ -583,6 +585,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
