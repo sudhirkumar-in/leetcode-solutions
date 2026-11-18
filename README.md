@@ -200,6 +200,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2848-points-that-intersect-with-cars](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -548,6 +549,7 @@
 | [2716-minimize-string-length](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2848-points-that-intersect-with-cars](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1240,6 +1242,7 @@
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1409-queries-on-a-permutation-with-key) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -1252,4 +1255,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
