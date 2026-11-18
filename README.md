@@ -256,6 +256,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0443-string-compression) |
+| [0482-license-key-formatting](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0567-permutation-in-string) |
