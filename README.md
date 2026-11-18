@@ -160,6 +160,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1656-design-an-ordered-stream](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 | [1710-maximum-units-on-a-truck](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1765-map-of-highest-peak](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
@@ -531,6 +532,7 @@
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1656-design-an-ordered-stream](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -1181,6 +1183,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [1656-design-an-ordered-stream](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -1265,4 +1268,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
