@@ -421,6 +421,7 @@
 | [0365-water-and-jug-problem](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0464-can-i-win](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -751,6 +752,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
