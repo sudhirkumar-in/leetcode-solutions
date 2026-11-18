@@ -208,6 +208,7 @@
 | [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3242-design-neighbor-sum-service](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -561,6 +562,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3242-design-neighbor-sum-service](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -621,6 +623,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3242-design-neighbor-sum-service](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3842-toggle-light-bulbs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
@@ -916,6 +919,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [3242-design-neighbor-sum-service](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
@@ -1184,6 +1188,7 @@
 | [0303-range-sum-query-immutable](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1656-design-an-ordered-stream](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
+| [3242-design-neighbor-sum-service](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
