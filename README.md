@@ -304,6 +304,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3227-vowels-game-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
+| [3407-substring-matching-pattern](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -1165,6 +1166,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [3407-substring-matching-pattern](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3407-substring-matching-pattern) |
 ## Hash Function
 |  |
 | ------- |
