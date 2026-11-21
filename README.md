@@ -201,6 +201,7 @@
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2848-points-that-intersect-with-cars](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -846,6 +847,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
