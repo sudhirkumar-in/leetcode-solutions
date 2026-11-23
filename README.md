@@ -471,6 +471,7 @@
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2614-prime-in-diagonal](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [2739-total-distance-traveled](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2739-total-distance-traveled) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2864-maximum-odd-binary-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
@@ -625,6 +626,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2739-total-distance-traveled](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2739-total-distance-traveled) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3242-design-neighbor-sum-service](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
