@@ -24,6 +24,7 @@
 | [0365-water-and-jug-problem](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -264,6 +265,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0482-license-key-formatting](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
@@ -327,6 +329,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
@@ -364,6 +367,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -874,6 +878,7 @@
 | [0310-minimum-height-trees](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -993,6 +998,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 ## Combinatorics
 |  |
@@ -1200,6 +1206,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1656-design-an-ordered-stream](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 | [3242-design-neighbor-sum-service](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/3242-design-neighbor-sum-service) |
