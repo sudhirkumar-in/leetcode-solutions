@@ -287,6 +287,7 @@
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -548,6 +549,7 @@
 | [1656-design-an-ordered-stream](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -602,6 +604,7 @@
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -857,6 +860,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2932-maximum-strong-pair-xor-i) |
