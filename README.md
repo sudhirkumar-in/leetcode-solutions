@@ -124,6 +124,7 @@
 | [0733-flood-fill](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0832-flipping-an-image](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -622,6 +623,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1409-queries-on-a-permutation-with-key) |
@@ -657,6 +659,7 @@
 | [0443-string-compression](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -746,6 +749,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2032-two-out-of-three](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -931,6 +935,7 @@
 | [0463-island-perimeter](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0832-flipping-an-image](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/sudhirkumar-in/leetcode-solutions/tree/master/0994-rotting-oranges) |
